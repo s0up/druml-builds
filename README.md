@@ -13,7 +13,7 @@ DruML is an AI-powered electronic drum module that utilizes convolutional neural
 
 - **Supported STM32 Microcontroller**: Only pre-release alpha hardware is currently supported
 - **STM32CubeProgrammer**: Required for flashing the firmware. Download from [STM32CubeProgrammer](https://www.st.com/en/development-tools/stm32cubeprog.html).
-- **Hex Files**: Precompiled hex files are available in the [Releases](https://github.com/s0up/druml/releases) section.
+- **Hex Files**: Precompiled hex files are available in the [Releases](https://github.com/s0up/druml-build/releases) section.
 
 ## Installation
 
